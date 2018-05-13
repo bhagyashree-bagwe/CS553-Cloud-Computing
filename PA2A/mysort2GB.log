@@ -1,0 +1,9 @@
+Dividing 2GB input file into smaller chunks...
+Sorting individual chunks...
+Merging sorted chunks using k-level merge...
+Processing completed!
+Total time of execution : 125 seconds
+Records: 20000000
+Checksum: 98923e9cff98ac
+Duplicate keys: 0
+SUCCESS - all records are in order
